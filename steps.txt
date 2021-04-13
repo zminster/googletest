@@ -1,0 +1,13 @@
+1. Connect to Drive API at "Test Folder"
+2. Make a new folder (random folder name)
+3. Access & download all files in the Source Files folder, store them locally
+4. Wait for download and then upload all files into the new folder created in step 2
+5. Wait for upload and then disconnect from Drive API
+
+Google Drive Test Layout:
+
+Test Folder in Drive:
+------- Source Files
+------- Copy #1
+------- Copy #2
+------- ...etc
