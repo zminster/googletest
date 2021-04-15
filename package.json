@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "googleapis": "^71.0.0",
     "node-google-drive-new": "^1.1.4"
   }
 }
